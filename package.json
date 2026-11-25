@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@google/genai": "^3.6.1",
+    "lucide-react": "^1.80.0"
+  }
+}

@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+
+# environment variables (สำคัญมาก ห้ามเอาขึ้น Git)
+.env*
+!.env.example
+
+# debug & OS files
+npm-debug.log*
+.DS_Store
